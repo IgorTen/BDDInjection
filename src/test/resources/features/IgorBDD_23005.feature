@@ -6,8 +6,3 @@ Feature: test BDDs
 		Given user has credentials
 		When trying to log in
 		Then fails and goes home
-	@TSCID1600205
-	Scenario: logging in
-		Given user has credentials
-		When trying to log in
-		Then fails and goes home
