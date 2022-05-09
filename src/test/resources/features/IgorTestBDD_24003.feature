@@ -6,3 +6,8 @@ Feature: test
 		Given abc
 		When abc
 		Then abc
+@TSCID1661094
+	Scenario: cba
+		Given cba
+		When cba
+		Then cba
