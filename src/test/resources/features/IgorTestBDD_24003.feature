@@ -1,8 +1,8 @@
 #Auto generated Octane revision tag
 @BSPID24003REV0.2.0
-Feature:
+Feature: test
 @TSCID1661094
-	Scenario: abc
+	Scenario:
 		Given abc
 		When abc
 		Then abc
