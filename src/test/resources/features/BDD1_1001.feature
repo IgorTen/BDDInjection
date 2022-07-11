@@ -2,7 +2,7 @@
 
 Feature: Boris is crazy
 
-	Scenario: first
+	Scenario:
 		Given aa
 		When fgf
 		Then dfgds
